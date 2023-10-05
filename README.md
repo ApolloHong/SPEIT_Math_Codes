@@ -1,6 +1,8 @@
 # SPEIT Math Codes
 Welcome to the SPEIT Math Codes repository! This repository contains a collection of mathematical algorithms and code implementations developed by the students of the Shanghai Jiao Tong University-ParisTech Elite Institute of Technology (SPEIT).
 
+![](https://komarev.com/ghpvc/?username=apollohong&color=red)
+
 ## Table of Contents
 -  Introduction
 -  Installation
