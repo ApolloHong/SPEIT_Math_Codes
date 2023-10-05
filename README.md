@@ -3,6 +3,13 @@ Welcome to the SPEIT Math Codes repository! This repository contains a collectio
 
 ![](https://komarev.com/ghpvc/?username=apollohong&color=red)
 
+
+![GitHub repo size](https://img.shields.io/github/repo-size/apollohong/SPEIT_Math_Codes?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/apollohong/SPEIT_Math_Codes?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/apollohong/SPEIT_Math_Codes?style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/apollohong/SPEIT_Math_Codes?style=for-the-badge)
+![Bitbucket  issues](https://img.shields.io/github/issues-closed/apollohong/SPEIT_Math_Codes?style=for-the-badge)
+
 ## Table of Contents
 -  Introduction
 -  Installation
